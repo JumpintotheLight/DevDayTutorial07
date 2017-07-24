@@ -1,0 +1,600 @@
+﻿1
+00:00:00,680 --> 00:00:07,168
+Look at this! here I put in my hand between
+this lamp and the wall. On the wall we can
+
+2
+00:00:07,168 --> 00:00:13,129
+see the shadow of my hand, you can also see
+that the shadow is magnified compared to the
+
+3
+00:00:13,130 --> 00:00:20,130
+real size of my hand. This is a magnification
+and this is the most fundamental microscope
+
+4
+00:00:22,000 --> 00:00:27,379
+that you can make right! If you put in lenses
+and things that just makes it more of a compact
+
+5
+00:00:27,379 --> 00:00:34,379
+device but the principles is sort of like
+this. Notice that no light passes through
+
+6
+00:00:34,729 --> 00:00:41,729
+my hand, we only se the shadow, one can say
+that my hand fully absorbed light, and in
+
+7
+00:00:42,329 --> 00:00:49,329
+bright field microscopy that is the feature
+you are looking for, absorption of light into
+
+8
+00:00:49,719 --> 00:00:55,270
+the sample and the more light it absorbs the
+darker spots you get on the viewing screen.
+
+9
+00:00:55,270 --> 00:01:02,270
+Alright, now you probably know the most basic
+things about light microscopy, welcome to
+
+10
+00:01:02,820 --> 00:01:07,719
+the first lecture in this materials characterization
+course, in which we will talk about light
+
+11
+00:01:07,719 --> 00:01:13,579
+microscopy. It's good to get a good understanding
+in light microscopy because it will help you
+
+12
+00:01:13,579 --> 00:01:18,969
+out in the further chapters of the course,
+especially when we talk about electron microscopy
+
+13
+00:01:18,969 --> 00:01:24,920
+and especially transmission electron microscopy,
+because most techniques in those are directly
+
+14
+00:01:24,920 --> 00:01:30,019
+comparable to light microscopy.
+
+15
+00:01:32,719 --> 00:01:35,780
+Welcome to the first lecture in light microscopy,
+
+16
+00:01:35,938 --> 00:01:40,279
+if you haven't checked the demonstration movie
+on a light microscope I suggest you do that,
+
+17
+00:01:40,280 --> 00:01:46,599
+before you start viewing this lecture. The
+sample preparation movies you can chose to
+
+18
+00:01:46,599 --> 00:01:52,798
+view afterwards if you like. The course book
+starts with a section on geometrical optics,
+
+19
+00:01:52,799 --> 00:01:56,479
+I will leave that as an home exercise for
+you to catch up on because I will not talk
+
+20
+00:01:56,478 --> 00:02:02,349
+about that in this lecture. What I do want
+to talk about is dark-field and bright-field
+
+21
+00:02:02,349 --> 00:02:07,739
+imaging and if you take some fundamentals
+about light interactions with the sample,
+
+22
+00:02:07,739 --> 00:02:14,549
+either it can be reflected, or absorbed in
+the sample, or it can have a phase effect
+
+23
+00:02:14,549 --> 00:02:20,079
+on the wavelength of the light that passes
+through. This is the two things that can happen
+
+24
+00:02:20,079 --> 00:02:27,079
+when light is lit upon the sample.
+I will show you a detailed sketch about this,
+
+25
+00:02:28,259 --> 00:02:34,698
+first I draw a reference wave and that ray
+passes through nothing so it has no effect
+
+26
+00:02:34,699 --> 00:02:39,569
+on anything, it just passing through. Then
+I draw a second ray of light here that will
+
+27
+00:02:39,568 --> 00:02:44,729
+go through a sample that absorbs part of it,
+when it goes through here part of it will
+
+28
+00:02:44,729 --> 00:02:49,628
+be absorbed and the amplitude of the wave
+will therefore be smaller. The third ray,
+
+29
+00:02:49,628 --> 00:02:55,679
+I draw here, will pass through an object that
+has a phase-effect on the wave, and that means
+
+30
+00:02:55,680 --> 00:03:02,409
+it will retard the wave and the phase of it,
+so it will not come into sync with the other
+
+31
+00:03:02,408 --> 00:03:08,558
+waves. This can be for example a material
+were you have different refractive indexes,
+
+32
+00:03:08,558 --> 00:03:13,998
+then you have effects like this. What you
+can see here in these examples is that if
+
+33
+00:03:13,998 --> 00:03:20,128
+you have a bright field image in the microscope,
+what you are looking for, the contrast in
+
+34
+00:03:20,128 --> 00:03:27,128
+the picture, will be depending completely
+on absorption and that means that if your
+
+35
+00:03:27,528 --> 00:03:34,198
+sample is not absorbing so much compared to
+the surroundings, then the image will be very
+
+36
+00:03:34,199 --> 00:03:38,419
+weak in contrast and it will be very hard
+to see any details in it.
+
+37
+00:03:40,229 --> 00:03:47,229
+That's why you start using these phase techniques.
+It's for example phase-contrast and differential
+
+38
+00:03:48,519 --> 00:03:55,519
+interference contrast, I will talk on that
+in detail in the second lecture. At the moment
+
+39
+00:03:55,709 --> 00:04:00,829
+I think it's important to know that either
+you have absorption or phase effects on the
+
+40
+00:04:00,829 --> 00:04:07,109
+waves.
+In bright field imaging of the microscope,
+
+41
+00:04:07,109 --> 00:04:12,650
+what you do is that you collect all the transmitted
+light that passes through the sample and all
+
+42
+00:04:12,650 --> 00:04:19,000
+the light that is not absorbed or reflected
+in the sample. That gives you this classic
+
+43
+00:04:19,000 --> 00:04:24,500
+microscope image that you perhaps seen before
+from undergraduate school. This technique
+
+44
+00:04:26,728 --> 00:04:33,728
+is good if the sample has high absorption
+in its features, because then you will have
+
+45
+00:04:34,839 --> 00:04:41,279
+good contrast. The reverse side of this technique
+is the dark-field imaging, in this technique
+
+46
+00:04:42,050 --> 00:04:48,110
+what you do then is instead of looking at
+all transmitted, unaffected light, you cancel
+
+47
+00:04:48,110 --> 00:04:54,908
+out that light and only look at the light
+that is reflected (scattered) in the sample. That gives
+
+48
+00:04:54,908 --> 00:05:01,800
+you an image that looks inverse to the bright
+field image. All the white parts will become
+
+49
+00:05:01,800 --> 00:05:08,800
+black in this case and the sample will appear
+as it glows by itself when you look upon it.
+
+50
+00:05:11,069 --> 00:05:17,289
+The dark field image is also an advantage
+when you have reflected light from the surface,
+
+51
+00:05:17,288 --> 00:05:21,870
+you know that light microscopes, you saw that
+in the demo movie, we can booth have transmitted
+
+52
+00:05:21,870 --> 00:05:27,899
+light that goes through or you can have reflected
+light from top as well. If you only use the
+
+53
+00:05:27,899 --> 00:05:34,848
+top reflected technique is very handy if you
+look for example at metallic samples that
+
+54
+00:05:34,848 --> 00:05:41,848
+you have etched. In that case all the grains
+will have chamfered edges due to the etching
+
+55
+00:05:43,490 --> 00:05:49,000
+and that will reflect light differently and
+if you use dark field imaging on that you
+
+56
+00:05:49,000 --> 00:05:53,389
+will see the grains very clearly, a good technique
+for that.
+
+57
+00:05:53,389 --> 00:06:00,389
+If I'm going to draw how this basically works,
+then it is like this, there is a picture in
+
+58
+00:06:00,519 --> 00:06:07,519
+the book of this also and I think it's good.
+I draw a side view of the microscope here,
+
+59
+00:06:08,100 --> 00:06:15,129
+and at the bottom I draw the condenser lens
+with its aperture. Beneath I draw a top view
+
+60
+00:06:16,500 --> 00:06:20,500
+so you can see exactly how the aperture of
+the condenser looks like. The aperture is
+
+61
+00:06:20,639 --> 00:06:27,180
+a round disc and in bright field imaging what
+you keep is a hole that looks like this that
+
+62
+00:06:29,490 --> 00:06:36,019
+you can change the size of, that's the aperture
+size. The aperture cancels out everything
+
+63
+00:06:36,019 --> 00:06:41,979
+that's outside the hole, light can only pass
+through it. That is for bright field imaging.
+
+64
+00:06:43,319 --> 00:06:49,418
+In the middle I put in a glass slide with
+the sample, and on top of that you have the
+
+65
+00:06:49,418 --> 00:06:54,149
+objective under the microscope that picks
+up the light. What you can see here is that
+
+66
+00:06:54,149 --> 00:06:59,778
+when the light comes through the condenser
+it will match up so all the light will be
+
+67
+00:06:59,778 --> 00:07:06,778
+transmitted through the sample and then will
+be picked up by the matching objective here,
+
+68
+00:07:09,038 --> 00:07:16,038
+that gives you this transmitted bright field
+image. Instead if you have, I draw that on
+
+69
+00:07:17,680 --> 00:07:23,870
+the other side, here to the right, the dark
+field imaging case. What you do then is instead
+
+70
+00:07:23,870 --> 00:07:30,870
+of having this hole of the condenser aperture
+you have a round disc in the center. You cancel
+
+71
+00:07:32,408 --> 00:07:39,408
+out all the light that's in the center, what
+that means is that the light you shine upon
+
+72
+00:07:40,168 --> 00:07:47,168
+the sample will come in at a specific angle
+into it. If the light is not affected by the
+
+73
+00:07:48,800 --> 00:07:52,500
+sample it will go out in the same direction.
+
+74
+00:07:56,220 --> 00:07:58,640
+The smart thing here in dark field imaging
+
+75
+00:07:59,149 --> 00:08:05,739
+is that if you have objective at top that
+is built so that it matches this angle, and
+
+76
+00:08:05,740 --> 00:08:11,028
+if the light is unaffected and passes out
+at same angle it will miss the objective and
+
+77
+00:08:11,028 --> 00:08:18,028
+will not be picked up. If that's the case
+you will only see a black screen in the microscope
+
+78
+00:08:18,059 --> 00:08:24,740
+when viewing. Because all light has been canceled
+out and goes outside of the objective. But
+
+79
+00:08:24,740 --> 00:08:31,740
+if the light is interacting in the sample
+and changes angle, if it's refracted in the
+
+80
+00:08:34,649 --> 00:08:41,250
+sample then it will take a different angle
+out from the sample and then some of it will
+
+81
+00:08:41,250 --> 00:08:48,059
+come into the objective and that means when
+you look at the image it will actually look
+
+82
+00:08:48,059 --> 00:08:55,059
+like the sample itself is bright. Then you
+get this reverse effect of bright field image.
+
+83
+00:08:59,990 --> 00:09:05,509
+The next thing you need to have a understanding
+about is phase-plates. Phase plates were sort
+
+84
+00:09:05,509 --> 00:09:10,948
+of discovered by accident, I think it was
+by Rayleigh, he poured out some acid on top
+
+85
+00:09:10,948 --> 00:09:17,578
+of glass slide and then he found out that
+this etched down the glass very little, half
+
+86
+00:09:17,578 --> 00:09:25,718
+a wavelength of the light and that had this
+kind of phase effect when he did some optical
+
+87
+00:09:27,000 --> 00:09:33,559
+investigation of it. A phase plate is this
+glass slide that you 
+
+88
+00:09:33,919 --> 00:09:39,459
+have etched an annulus ring on top of. 
+
+89
+00:09:42,059 --> 00:09:47,899
+The smart thing with this,
+that is if you take this phase plate glass
+
+90
+00:09:48,730 --> 00:09:55,730
+slide with this specific ring shaped structure
+and then you create an equal aperture in the
+
+91
+00:09:55,870 --> 00:10:02,299
+condenser with the same annulus shape, this
+is a development step from the dark-field
+
+92
+00:10:02,299 --> 00:10:09,299
+central stop aperture, here we have a specific
+spacing around not just a central stopper.
+
+93
+00:10:10,828 --> 00:10:17,278
+If you do that then all the light that goes
+through the sample and is unaffected will
+
+94
+00:10:17,278 --> 00:10:21,299
+have the same angle as in the dark-field imaging
+mode, but you pick up that light with the
+
+95
+00:10:21,299 --> 00:10:28,299
+objective, you created a different objective
+that can pick up that light as well. Then
+
+96
+00:10:28,458 --> 00:10:34,789
+that light, if you put this phase-plate on
+top of the objective, that unaffected light
+
+97
+00:10:34,789 --> 00:10:41,789
+will go through this etched ring of this glass
+slide, that we call the phase-plate. That
+
+98
+00:10:42,570 --> 00:10:49,570
+means that the wavelength will be shifted
+half a wavelength compared to if it were refracted
+
+99
+00:10:49,708 --> 00:10:56,708
+in the sample. If the sample has a different
+refractive index, then the angle out from
+
+100
+00:10:59,240 --> 00:11:06,240
+the sample by the light beam will be different
+and that means that light when it hit the
+
+101
+00:11:07,049 --> 00:11:14,049
+phase-plale will not go through this etched
+ring, only unaffected light that goes through
+
+102
+00:11:14,240 --> 00:11:21,240
+it, all other light will go somewhere else
+on the phase-plate. That means that you will
+
+103
+00:11:24,828 --> 00:11:31,828
+have two waves that goes out on top of the
+phase plate that will be retarded half a wavelength
+
+104
+00:11:33,039 --> 00:11:40,039
+from each other. What is the conclusion of
+this, light that is interacting with the sample
+
+105
+00:11:45,409 --> 00:11:52,409
+will be shifted half a wavelength compared
+to non-affected light, these two light rays
+
+106
+00:11:53,470 --> 00:12:00,470
+will interfere with each other and create
+destructive interference and that gives you
+
+107
+00:12:02,458 --> 00:12:09,458
+this thing called phase contrast. Because
+it is destructive interference you will have
+
+108
+00:12:11,919 --> 00:12:18,919
+a contrast feature were things will look bright
+and dark depending on the refractive index
+
+109
+00:12:19,440 --> 00:12:26,440
+of the sample, so this gives the possibility
+to view samples that has the same absorption
+
+110
+00:12:28,919 --> 00:12:35,919
+of light but different refractive indexes.
+Typical examples is if you look at biological
+
+111
+00:12:38,480 --> 00:12:45,480
+objects a cell for example, living cells,
+that has liquids and things inside it that
+
+112
+00:12:46,409 --> 00:12:52,789
+is transparent compared to the glass and the
+water that you have perhaps have put around
+
+113
+00:12:52,789 --> 00:12:59,458
+it on the objective glass. If you put this
+in under phase contrast technique then you
+
+114
+00:12:59,458 --> 00:13:05,318
+can see if there are different refractive
+indexes of the cell and the surrounding water
+
+115
+00:13:05,318 --> 00:13:09,610
+and this will create contrast and you will
+more easily see it compared to if you just
+
+116
+00:13:09,610 --> 00:13:16,610
+use bright field imaging. That is the natural
+development step up from dark-field imaging.
+
+117
+00:13:19,458 --> 00:13:26,458
+That's phase contrast technique.
+This is enough for lecture one, now I talked
+
+118
+00:13:28,339 --> 00:13:35,079
+about bright field imaging, dark-field imaging,
+and a little bit about phase-contrast and
+
+119
+00:13:35,078 --> 00:13:42,078
+the phase plate. What I want You to do now
+is to solve some of the problems as suggested
+
+120
+00:13:43,899 --> 00:13:50,490
+below and then you continue on lecture two.
+In lecture two I will talk about differential
+
+121
+00:13:50,490 --> 00:13:56,089
+interference contrast and polarization techniques.
+Alright, see you on lecture two.
+

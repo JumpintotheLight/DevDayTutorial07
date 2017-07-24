@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dfa030ee00525243b7e3234c07f857f, type: 3}
+  m_Name: SimpleSoundManagerSettings
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: hover
+    audio: {fileID: 8300000, guid: cb4f278474c42aa458a95fa249c36583, type: 3}
+    volume: 1
+  - name: click
+    audio: {fileID: 8300000, guid: 2329ca3ced55b7a449ad6e0fca7899a8, type: 3}
+    volume: 1
